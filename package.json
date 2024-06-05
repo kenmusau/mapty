@@ -11,6 +11,7 @@
     "server": "json-server --watch data/cities.json --port 8000 delay 700"
   },
   "dependencies": {
+    "json-server": "^1.0.0-beta.1",
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
