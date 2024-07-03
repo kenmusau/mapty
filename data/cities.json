@@ -37,27 +37,39 @@
       "id": "98443154"
     },
     {
-      "id": "2654",
-      "cityName": "Castello de la Plana",
+      "id": "22a6",
+      "cityName": "Leon",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-06-26T20:24:16.000Z",
-      "notes": "",
+      "date": "2024-07-03T19:48:08.814Z",
+      "notes": "First",
       "position": {
-        "lat": "39.9970828130046",
-        "lng": "0.00562819786487978"
+        "lat": "42.60970621339408",
+        "lng": "-5.559082031250001"
       }
     },
     {
-      "id": "8b36",
-      "cityName": "Kajiado",
+      "id": "da07",
+      "cityName": "Nairobi",
       "country": "Kenya",
       "emoji": "🇰🇪",
-      "date": "2024-06-26T20:24:16.000Z",
+      "date": "2024-07-03T19:48:56.571Z",
       "notes": "",
       "position": {
-        "lat": "-1.4751708218043342",
-        "lng": "36.958284250117764"
+        "lat": "-1.2949031797043231",
+        "lng": "36.81655883789063"
+      }
+    },
+    {
+      "id": "fe21",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-03T19:54:53.896Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01026122056981",
+        "lng": "-0.004119873046875001"
       }
     }
   ]
