@@ -1,3 +1,88 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "11e3",
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2024-07-06T16:50:25.288Z",
+      "notes": "",
+      "position": {
+        "lat": "16.172472808397515",
+        "lng": "-2.5488281250000004"
+      }
+    },
+    {
+      "id": "55ec",
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-07-06T16:50:30.808Z",
+      "notes": "",
+      "position": {
+        "lat": "17.392579271057766",
+        "lng": "9.272460937500002"
+      }
+    },
+    {
+      "id": "9877",
+      "cityName": "Tichit",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2024-07-06T16:50:48.608Z",
+      "notes": "",
+      "position": {
+        "lat": "19.145168196205297",
+        "lng": "-10.327148437500002"
+      }
+    },
+    {
+      "id": "19e9",
+      "cityName": "Maper",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-07-06T16:51:12.280Z",
+      "notes": "",
+      "position": {
+        "lat": "7.667441482726068",
+        "lng": "29.487304687500004"
+      }
+    },
+    {
+      "id": "e261",
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-10T17:31:57.736Z",
+      "notes": "",
+      "position": {
+        "lat": "40.10538669840983",
+        "lng": "-0.17852783203125003"
+      }
+    },
+    {
+      "id": "42ec",
+      "cityName": "Kajiado",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-07-10T17:32:10.517Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.4840183086975962",
+        "lng": "36.95543289184571"
+      }
+    },
+    {
+      "id": "1f4f",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-11T16:42:04.855Z",
+      "notes": "",
+      "position": {
+        "lat": "39.98632757879318",
+        "lng": "-0.07947921752929689"
+      }
+    }
+  ]
 }
