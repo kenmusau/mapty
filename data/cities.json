@@ -13,66 +13,6 @@
       }
     },
     {
-      "id": "55ec",
-      "cityName": "Tchirozerine",
-      "country": "Niger (the)",
-      "emoji": "🇳🇪",
-      "date": "2024-07-06T16:50:30.808Z",
-      "notes": "",
-      "position": {
-        "lat": "17.392579271057766",
-        "lng": "9.272460937500002"
-      }
-    },
-    {
-      "id": "9877",
-      "cityName": "Tichit",
-      "country": "Mauritania",
-      "emoji": "🇲🇷",
-      "date": "2024-07-06T16:50:48.608Z",
-      "notes": "",
-      "position": {
-        "lat": "19.145168196205297",
-        "lng": "-10.327148437500002"
-      }
-    },
-    {
-      "id": "19e9",
-      "cityName": "Maper",
-      "country": "South Sudan",
-      "emoji": "🇸🇸",
-      "date": "2024-07-06T16:51:12.280Z",
-      "notes": "",
-      "position": {
-        "lat": "7.667441482726068",
-        "lng": "29.487304687500004"
-      }
-    },
-    {
-      "id": "e261",
-      "cityName": "l'Alcora",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-10T17:31:57.736Z",
-      "notes": "",
-      "position": {
-        "lat": "40.10538669840983",
-        "lng": "-0.17852783203125003"
-      }
-    },
-    {
-      "id": "42ec",
-      "cityName": "Kajiado",
-      "country": "Kenya",
-      "emoji": "🇰🇪",
-      "date": "2024-07-10T17:32:10.517Z",
-      "notes": "",
-      "position": {
-        "lat": "-1.4840183086975962",
-        "lng": "36.95543289184571"
-      }
-    },
-    {
       "id": "1f4f",
       "cityName": "Castello de la Plana",
       "country": "Spain",
@@ -82,6 +22,54 @@
       "position": {
         "lat": "39.98632757879318",
         "lng": "-0.07947921752929689"
+      }
+    },
+    {
+      "id": "e15b",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-06T19:16:26.688Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01250624073396",
+        "lng": "-0.043110098074938825"
+      }
+    },
+    {
+      "id": "c754",
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2024-08-06T19:22:05.316Z",
+      "notes": "",
+      "position": {
+        "lat": "16.155674082559585",
+        "lng": "-2.6564787835490615"
+      }
+    },
+    {
+      "id": "cbb2",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-21T20:35:05.142Z",
+      "notes": "",
+      "position": {
+        "lat": "40.002384451917294",
+        "lng": "-0.034529266868734705"
+      }
+    },
+    {
+      "id": "d674",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-21T20:44:59.303Z",
+      "notes": "",
+      "position": {
+        "lat": "39.98687022708112",
+        "lng": "-0.03967776559244519"
       }
     }
   ]
